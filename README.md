@@ -1,0 +1,2 @@
+# poll
+Django introduction
